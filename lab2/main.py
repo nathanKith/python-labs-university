@@ -7,9 +7,9 @@ import docx
 def main():
     doc = docx.Document()
 
-    rectangle = Rectangle("серо-буро-малинового", 2, 2)
-    circle = Circle("бардового", 2)
-    square = Square("бирюзового", 2)
+    rectangle = Rectangle("серо-буро-малинового", 3, 2)
+    circle = Circle("бардового", 5)
+    square = Square("бирюзового", 3)
 
     content = [
         'ИУ5-51Б Толпаров Натан',
