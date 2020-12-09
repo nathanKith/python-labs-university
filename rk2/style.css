@@ -1,0 +1,13 @@
+table {
+    box-shadow: black;
+}
+
+td, th {
+    border: 3px solid #214252;
+    background-color: #ce6262;
+}
+
+.td-color {
+    background-color: #f05454;
+    color: black;
+}
